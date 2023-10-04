@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|a|.|.|.|
+|p|u|s|s|y|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -10,5 +10,8 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. a - goed!
-2. 
+1. p - goed!
+2. u - goed!
+3. s - goed!
+4. s - goed!
+5. y - goed!
